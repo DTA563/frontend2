@@ -27,7 +27,7 @@ body {
     height: 100px;
 }
 
-.details h2{
+.details h1{
     font-size: 30px;
     color: hsl(0, 0%, 100%);
     text-align: center;
